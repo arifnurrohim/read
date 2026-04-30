@@ -1,6 +1,6 @@
 ![logo](https://user-images.githubusercontent.com/57605485/133506342-f313bb68-8bb0-4d01-a4a4-e05faea4b865.png)
 <!-- BE_GRATEFUL:START (LAST_UPDATE:format=DD-MMM-YYYY HH:mm) -->
-![last_update](https://img.shields.io/badge/last%20update-29--Apr--2026%2023:34%20(GMT%200)-blue)
+![last_update](https://img.shields.io/badge/last%20update-30--Apr--2026%2001:19%20(GMT%200)-blue)
 <!-- BE_GRATEFUL:END -->
 <!-- BE_GRATEFUL:START (TWITTER:username=creador) -->
 ![twitter](https://img.shields.io/twitter/follow/creador?style=social)
@@ -10,8 +10,8 @@ Fork repo to give credit to your repo fans in your readme file automagically.<br
 Just edit the readme.md file as you wish but keep the special comments.
 
 <!-- BE_GRATEFUL:START (QUOTES) -->
-<h3>"Try to forget what hurt you with regard to every action in life but don’t forget the lesson you learnt out of it."</h3>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Joseph Vijay</i></small>
+<h3>"Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing."</h3>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small><i>- Abraham Lincoln</i></small>
 <!-- BE_GRATEFUL:END -->
 
 <!-- BE_GRATEFUL:START (THANKS_TO) -->
